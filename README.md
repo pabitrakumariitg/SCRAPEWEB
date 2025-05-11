@@ -86,11 +86,3 @@ To scrape a different site:
 ```js
 const URL = 'https://example.com';
 ```
-
----
-
-### 🧪 Notes
-
-* This script uses a simple structure — ideal for educational purposes or quick scraping tasks.
-* It **does not** handle JavaScript-rendered content. For that, use **Puppeteer** or **Playwright**.
-
